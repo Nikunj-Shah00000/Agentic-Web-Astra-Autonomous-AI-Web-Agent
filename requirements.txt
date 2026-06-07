@@ -1,0 +1,12 @@
+﻿fastapi
+uvicorn
+langchain
+langgraph
+openai
+playwright
+beautifulsoup4
+requests
+pydantic
+sqlalchemy
+chromadb
+python-dotenv
